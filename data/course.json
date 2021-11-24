@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "999473ee-685d-3aae-4d16-8162ffd9dc89"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics in Linguistics: Genericity",
+  "course_description": "This course will investigate the semantics of generic sentences, i.e., sentences that\u00a0are used to talk about\u00a0habits, tendencies, dispositions, or kinds. For instance:\n\n1.  Dogs are good pets.\n2.  The giant panda is an endangered species.\n3.  A soccer player makes lots of money.\n4.  Mary smokes after dinner.\n5.  This machine crushes oranges.\n\nThis is a\u00a0half-semester course.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.921",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
